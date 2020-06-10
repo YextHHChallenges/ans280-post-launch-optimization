@@ -4,7 +4,7 @@
   "domain": "answers-domain",
   "features": [],
   "publishingConfig": {
-    "pinnedProductionBranchName": "refs/heads/master",
+    "pinnedProductionBranchName": "refs/tags/master",
     "pinnedStagingBranchName": "refs/heads/master",
     "stagingCredentials": {
       "password": "test",
