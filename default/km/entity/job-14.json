@@ -3,6 +3,11 @@
   "$schema": "https://schema.yext.com/config/km/entity/v1",
   "primaryLocale": "en",
   "content": {
+    "c_associatedFAQs": [
+      "faq-8",
+      "faq-6",
+      "faq-7"
+    ],
     "c_benefits": [
       "Medical and Dental insurance plans",
       "Paid time off",
